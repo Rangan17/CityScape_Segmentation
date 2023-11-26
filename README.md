@@ -1,7 +1,9 @@
 # CityScape_Segmentation
 Semantic Segmentation using U-Net with Pytorch
 # **Cityscape Segmentation using UNet with PyTorch: A Comprehensive Overview**
-Dataset : https://www.kaggle.com/datasets/dansbecker/cityscapes-image-pairs
+Dataset: https://www.kaggle.com/datasets/dansbecker/cityscapes-image-pairs
+
+
 Semantic segmentation, a cornerstone in the field of computer vision, holds immense significance in understanding complex urban scenes. In this endeavor, a UNet architecture implemented with PyTorch has been deployed for Cityscape segmentation, achieving an exceptional accuracy of 94%. This note provides a thorough exploration of the methodology, training strategy, results, and implications of this cityscape segmentation project.
 
 ## **Understanding the UNet Architecture**
